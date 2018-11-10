@@ -1,5 +1,9 @@
 # Custom Blog Themes for Tumblr
 
+*License: GNU GPL v3*
+
+-----
+
 Hi, welcome to my repository for Tumblr themes!
 
 These themes are available for you:
