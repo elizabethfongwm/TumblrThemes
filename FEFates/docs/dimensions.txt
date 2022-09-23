@@ -1,3 +1,9 @@
+Default Sizes and Dimensions
+
+@version March 2017
+
+==================================================
+
 Fonts:
 ------
 Size: 13pt
@@ -11,7 +17,6 @@ Japanese:
 	MS Mincho　ＭＳ明朝
 Default: 
 	serif
-
 
 
 Dimensions:
